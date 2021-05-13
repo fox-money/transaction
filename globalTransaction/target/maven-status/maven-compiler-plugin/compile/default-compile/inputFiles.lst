@@ -1,0 +1,6 @@
+F:\E\transaction\globalTransaction\src\main\java\org\transcation\global\BranchTransaction.java
+F:\E\transaction\globalTransaction\src\main\java\org\transcation\global\annotation\DataSourceAspect.java
+F:\E\transaction\globalTransaction\src\main\java\org\transcation\global\aspect\GlobalTranscationAspect.java
+F:\E\transaction\globalTransaction\src\main\java\org\transcation\global\connection\TransactionConnection.java
+F:\E\transaction\globalTransaction\src\main\java\org\transcation\global\TransactionManage.java
+F:\E\transaction\globalTransaction\src\main\java\org\transcation\global\annotation\GlobalTranscation.java

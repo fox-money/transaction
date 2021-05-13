@@ -1,0 +1,4 @@
+org/transcation/global/common/Branch.class
+org/transcation/global/common/BranchTransaction$Task.class
+org/transcation/global/common/BranchTransaction$TranscationType.class
+org/transcation/global/common/BranchTransaction.class
